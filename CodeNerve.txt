@@ -1,5 +1,5 @@
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> sudo Odhiambo_Edward alias <span id="a">whit3d</span>
-<span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cd My_Profile<br/>
+<span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cd My_Profile
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cat About_Me.txt<br/><br/>
 ODHIAMBO EDWARD, MScITM/CEH "<span id="k">Resume</span>". <!-- sjkfhskjf -->
 
