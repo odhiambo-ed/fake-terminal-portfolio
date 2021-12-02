@@ -1,8 +1,8 @@
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> sudo Odhiambo_Edward/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->whit3d.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+ODHIAMBO EDWARD, MScITM/CEH "<span id="k">Resume</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+I am Odhiambo Edward, Cyber Security Enthusiast with 4 years' experience and top-notch skills in Cyber Security Solutions;<br>  Network Firewalls,<br> Internet Traffic Protection Systems,<br> Protected Remote Access,<br> Security Event Monitoring Systems and<br> Intrusion Prevention Systems..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
