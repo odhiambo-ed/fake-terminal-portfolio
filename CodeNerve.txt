@@ -3,7 +3,7 @@
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cat About_Me.txt<br/><br/>
 ODHIAMBO EDWARD, MScITM/CEH "<span id="k">Resume</span>". <!-- sjkfhskjf -->
 
-I am Odhiambo Edward, Cyber Security Enthusiast with 4 years' experience and top-notch skills in Cyber Security Solutions;<br>  Network Firewalls,<br> Internet Traffic Protection Systems,<br> Protected Remote Access,<br> Security Event Monitoring Systems and<br> Intrusion Prevention Systems..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
+I am Odhiambo Edward, Cyber Security Enthusiast with 4 years' experience and top-notch skills in Cyber Security Solutions;<br><br>   Network Firewalls,<br> Internet Traffic Protection Systems,<br> Protected Remote Access,<br> Security Event Monitoring Systems and<br> Intrusion Prevention Systems..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 
 <p> Experienced in leading teams driving Software, Hardware and IT related projects. Seeking to bring knowledge, expertise, problem solving skills and keenness to all cyber security tasks. A meticulous professional with passion for security architecture.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
