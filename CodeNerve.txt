@@ -1,4 +1,4 @@
-<span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cd whit3d/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> sudo Odhiambo_Edward/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->whit3d.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
