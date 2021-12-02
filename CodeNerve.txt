@@ -2,12 +2,12 @@
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->whit3d.txt<br/><br/>
 ODHIAMBO EDWARD, MScITM/CEH "<span id="k">Resume</span>". <!-- sjkfhskjf -->
 
-I am Odhiambo Edward, Cyber Security Enthusiast with 4 years' experience and top-notch skills in Cyber Security Solutions;<br>  Network Firewalls,<br> Internet Traffic Protection Systems,<br> Protected Remote Access,<br> Security Event Monitoring Systems and<br> Intrusion Prevention Systems..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+I am Odhiambo Edward, Cyber Security Enthusiast with 4 years' experience and top-notch skills in Cyber Security Solutions;<br>  Network Firewalls,<br> Internet Traffic Protection Systems,<br> Protected Remote Access,<br> Security Event Monitoring Systems and<br> Intrusion Prevention Systems..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<p> Experienced in leading teams driving Software, Hardware and IT related projects. Seeking to bring knowledge, expertise, problem solving skills and keenness to all cyber security tasks. A meticulous professional with passion for security architecture.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+<p>MY PROJECTS <br><br><br>See some of my projects on GitHub. <a href="https://github.com/white3d"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> My professional social media profiles: <br> <a href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/">LinkedIn</a> <br> <a href="https://twitter.com/odhiambo_ed">Twitter</a> and <br> <a href="https://github.com/white3d">GitHub</a>.</p>
+
 
 <p>Cheers!</p>
