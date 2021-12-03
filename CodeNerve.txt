@@ -8,7 +8,9 @@ I am Odhiambo Edward, Cyber Security Enthusiast with 4 years' experience and top
 <p> Experienced in leading teams driving Software, Hardware and IT related projects. Seeking to bring knowledge, expertise, problem solving skills and keenness to all cyber security tasks. A meticulous professional with passion for security architecture.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p>MY PROJECTS <br><br><br>See some of my projects on GitHub. <a href="https://github.com/white3d"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> My professional social media profiles: <br> <a href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/">LinkedIn</a> <br> <a href="https://twitter.com/odhiambo_ed">Twitter</a> and <br> <a href="https://github.com/white3d">GitHub</a>.</p>
+<p> My professional social media profiles: <br> <a href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/">LinkedIn</a> <br>
+<a href="https://www.hackerrank.com/odhiambo_ed">HackerRank</a><br>
+<a href="https://twitter.com/odhiambo_ed">Twitter</a> and <br> <a href="https://github.com/white3d">GitHub</a>.</p>
 
 
 <p>Cheers!</p>
